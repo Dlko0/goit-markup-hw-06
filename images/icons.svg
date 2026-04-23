@@ -87,4 +87,13 @@
     <path d="M2 4h20v16H2V4zm10 7L4 6h16l-8 5zm0 2l8-5v10H4V8l8 5z" fill="currentColor"/>
   </symbol>
 
+<symbol id="icon-close" viewBox="0 0 24 24">
+  <path
+    d="M6 6L18 18M18 6L6 18"
+    stroke="currentColor"
+    stroke-width="2"
+    fill="none"
+    stroke-linecap="round"
+  />
+</symbol>
 </svg>
